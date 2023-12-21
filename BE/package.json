@@ -1,7 +1,7 @@
 {
   "name": "thread-be",
   "version": "0.0.1",
-  "description": "Awesome project developed with TypeORM.",
+  "description": "BaxCircle Projects.",
   "type": "commonjs",
   "devDependencies": {
     "@types/amqplib": "^0.10.1",
